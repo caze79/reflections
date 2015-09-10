@@ -3,3 +3,9 @@ It creates the metadata that stores all the commints. Because this way git knows
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 it only contains the files that have changed and we want to commit. It saves space because you only commit the files that have changed.
+
+How can you use the staging area to make sure you have one commit per logical change?
+you add to the stagin area only the files involved with the logical change you want to commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+it is helpful when you want to try a feature you are not sure will work in the project but you don't want to alter the working project. With branches you can have two different versions of your project, each with a different purpose.
