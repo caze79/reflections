@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+It creates the metadata that stores all the commints. Because this way git knows that you want to track the changes made to this directory.
+
