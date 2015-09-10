@@ -9,3 +9,6 @@ you add to the stagin area only the files involved with the logical change you w
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 it is helpful when you want to try a feature you are not sure will work in the project but you don't want to alter the working project. With branches you can have two different versions of your project, each with a different purpose.
+
+How do the diagrams help you visualize the branch structure?
+diagrams are a visual representation and it's easy to see de paths of the diferent branches
