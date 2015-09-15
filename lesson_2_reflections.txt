@@ -12,3 +12,10 @@ it is helpful when you want to try a feature you are not sure will work in the p
 
 How do the diagrams help you visualize the branch structure?
 diagrams are a visual representation and it's easy to see de paths of the diferent branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of a merge is a new commit with the combined files of the 2 branches. because it has both the functionalities combined, so it should have 2 parents.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros:It does all the easy work very fast. 
+Cons:When the two branches change the same parts it will not know what to do.
