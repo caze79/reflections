@@ -9,3 +9,5 @@ forks are to copy someone else repository on github.
 Clone is for creating a copy of a repository already on github or locally.
 Branches are to work only locally.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can work on your project off line, to update later.
