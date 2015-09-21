@@ -14,3 +14,6 @@ You can work on your project off line, to update later.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would have to use an excel log file and rename the directories. Everything would be harder.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Almost always, you don't want master to change until you are completily sure your changes work fine.
